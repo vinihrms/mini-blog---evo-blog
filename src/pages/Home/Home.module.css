@@ -1,0 +1,19 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.serch_form{
+    max-width: 100%;
+    width: 60%;
+    display: flexbox;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+.serch_form input{
+    margin-right: 10px;
+    width: 50%;
+}
